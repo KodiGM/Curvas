@@ -23,13 +23,13 @@
   },
   "CBCRS": {
     "tipo_curva": "CBCRS",
-    "ejecutado_utc": "2026-11-17T02:30:49.679905Z",
-    "fecha_inicio_consultada": "2026-11-12",
-    "fecha_fin_consultada": "2026-11-17",
+    "ejecutado_utc": "2026-11-18T02:34:19.489421Z",
+    "fecha_inicio_consultada": "2026-11-13",
+    "fecha_fin_consultada": "2026-11-18",
     "status": "ok",
     "nombre": "Curva Banco Central de Reserva CDBCRP",
-    "registros_totales": 746,
+    "registros_totales": 747,
     "registros_agregados_hoy": 1,
-    "ultima_fecha_dato": "2026-11-16"
+    "ultima_fecha_dato": "2026-11-17"
   }
 }
